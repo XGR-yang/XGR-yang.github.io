@@ -3,15 +3,22 @@ title: 亻山高人
 subtitle: 博客
 description: 这个人很懒。。。
 # 头像里面的标题
-avatarTitle: 亻山高人
+avatarTitle: 杨锐博
 # 头像里面的描述
 avatarDesc: C++/Python
+url: "https://xgr-yang.github.io/"
+
+#comment
+comment:
 
 # Social
 social: 
     github: XGR-yang
     mail: 276189953@qq.com
+    
+baidu:
 
+ga:
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
 #
