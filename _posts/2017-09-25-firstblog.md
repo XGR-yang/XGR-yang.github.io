@@ -15,7 +15,7 @@ tag:
 写博客
 </h2>
 <p style="background-color:#33FF66">
-博客以一组“---”开头，其中存放layout、title和tag信息，例如“layout:post”。后面就可以以HTML格式编写正文，此外也支持CSS，JavaScript，PHP，jekyll，以及python等。博客的文件类型时.md文件。
+博客以一组“---”开头，其中存放layout、title和tag信息，例如“layout:post”。后面就可以以HTML格式编写正文，此外也支持CSS，JavaScript，PHP，jekyll，以及python等。博客的文件类型为.md文件，命名规则为“YEAR-MONTH-DAY-title.MARKUP”。
 </p>
 
 <h3>
