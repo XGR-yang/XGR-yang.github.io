@@ -1,8 +1,7 @@
 ---
 layout:post
-title:第一篇博客
-description:一篇测试用的博客
-tag:
+title:"第一篇博客"
+description:"一篇测试用的博客"
 ---
 <h1>
 搭建
