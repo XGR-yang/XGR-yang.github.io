@@ -5,6 +5,7 @@ description:用于测试的博客
 ---
 
 #搭建
+
 申请github账号,创建repository,repository的名字必须是"全小写账号名.github.io",然后上jekylltheme找一个心仪的静态博客页,上传到repository中就可以了
 
 ##写博客
