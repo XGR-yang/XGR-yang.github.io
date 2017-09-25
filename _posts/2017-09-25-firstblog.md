@@ -1,7 +1,7 @@
 ---
-layout:post
-title:第一篇博客
-description:用于测试的博客
+layout: post
+title: 第一篇博客
+description: 用于测试的博客
 ---
 
 #搭建
@@ -15,4 +15,4 @@ description:用于测试的博客
 
 ###展望
 
-目前只是把博客框架做了一个小的调整,以后会逐步完善,把它变成自己的东西  感谢本框架的提供者:leopardpan,他的github地址为https://github.com/leopardpan/
+目前只是把博客框架做了一个小的调整,以后会逐步完善,把它变成自己的东西  感谢本框架的提供者:leopardpan,他的github地址为[leopardpan](https://github.com/leopardpan/)
