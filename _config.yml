@@ -8,16 +8,6 @@ avatarTitle: 杨锐博
 avatarDesc: C++/Python
 url: "https://xgr-yang.github.io/"
 
-#comment
-comment:
-
-# Social
-social: 
-    
-baidu:
-
-ga:
-
 permalink: /:year/:month/:title/
 # Format
 highlighter: rouge
