@@ -1,4 +1,4 @@
-# Basic
+﻿# Basic
 title: 亻山高人
 subtitle: 博客
 description: 这个人很懒。。。
@@ -13,8 +13,6 @@ comment:
 
 # Social
 social: 
-    github: XGR-yang
-    mail: 276189953@qq.com
     
 baidu:
 
@@ -47,7 +45,7 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 关于我, description: about, url: '/about'}      
+#    - {title: 关于我, description: about, url: '/about'}      
     
 
 # Pagination
