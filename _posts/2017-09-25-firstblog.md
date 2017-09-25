@@ -1,9 +1,10 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 ---
 layout:post
 title:第一篇博客
 description:用于测试的博客
 ---
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 #搭建
 <p style="background-color:#33FF66">
 申请github账号，创建repository，repository的名字必须是“账号名(全小写).github.io”，然后上jekylltheme找一个心仪的静态博客页，上传到repository中就可以了。
