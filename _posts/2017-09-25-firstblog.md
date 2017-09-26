@@ -4,16 +4,16 @@ title: 第一篇博客
 description: 用于测试的博客
 ---
 
-# 搭建
+#### 搭建
 
 申请github账号,创建repository,repository的名字必须是"全小写账号名.github.io",然后上[jekylltheme](https://jekylltheme.io)找一个心仪的静态博客页,上传到repository中就可以了
 
-## 编写
+##### 编写
 
 博客以一组"---"开头,其中存放layout,title等信息,例如"layout:post",后面就可以以**Markdown**格式编写正文  博客的文件类型为.md文件,命名规则为"YEAR-MONTH-DAY-title.MARKUP"
 
 
-### 展望与鸣谢
+###### 展望与鸣谢
 
 目前只是把博客框架做了一个小的调整,以后会逐步完善,把它变成自己的东西
 
