@@ -17,12 +17,12 @@ tag: 测试
 
 博客格式大致为:
 >	---
->	layout:自己的layout
->	title:自己的title
->	description:自己的description
->	tag:自己的tag
->	---
->	正文
+	layout:自己的layout
+	title:自己的title
+	description:自己的description
+	tag:自己的tag
+	---
+	正文
 
 需要注意的是:**所有的标点符号必须为英文标点符号，否则无法以正确解析**
 此外,正文标题格式推荐使用三个#，其他的标题格式都不好看
