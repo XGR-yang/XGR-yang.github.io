@@ -1228,19 +1228,19 @@ body {
 
 /*tested*/
 .ih-item.circle.effect.fade .img{
-    -webkit-transform-origin: opacity:1.0;
+    /*-webkit-transform-origin: opacity:1.0;
     -moz-transform-origin: opacity:1.0;
     -ms-transform-origin: opacity:1.0;
     -o-transform-origin: opacity:1.0;
-    transform-origin: opacity:1.0;
+    transform-origin: */opacity:1.0;
 }
 
 .ih-item.circle.effect.fade:hover .img{
-    -webkit-transform: opacity:0;
+    /*-webkit-transform: opacity:0;
     -moz-transform: opacity:0;
     -ms-transform: opacity:0;
     -o-transform: opacity:0;
-    transform: opacity:0;
+    transform: */opacity:0;
 }
 /*succeed!*/
 
