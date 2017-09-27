@@ -1240,7 +1240,7 @@ body {
     -moz-transform: opacity:0;
     -ms-transform: opacity:0;
     -o-transform: opacity:0;
-    transform: 
+    transform: opacity:0;
 }
 /*succeed!*/
 
