@@ -7,7 +7,7 @@ tag: 测试
 
 ### 搭建
 
-申请github账号,创建repository,repository的名字必须是"全小写账号名.github.io",然后上[jekylltheme](https://jekyllthemes.org)找一个心仪的静态博客页,上传到repository中就可以了
+申请github账号，创建repository,repository的名字必须是"全小写账号名.github.io",然后上[jekylltheme](https://jekyllthemes.org)找一个心仪的静态博客页,上传到repository中就可以了
 
 ### 编写
 
