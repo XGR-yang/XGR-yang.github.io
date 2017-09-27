@@ -1422,6 +1422,8 @@ nav a {
   transform: translateY(-3px);
 }
 /*导航按钮-end*/
+
+/*Thanks for imagehover.css-master.*/
 [class^='imghvr-'], [class*=' imghvr-'] {
     position: relative;
     display: inline-block;
