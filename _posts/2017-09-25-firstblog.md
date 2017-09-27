@@ -33,4 +33,4 @@ tag: 测试
 
 个人并不打算实现高级功能，
 
-感谢本框架的提供者:leopardpan,他的github地址为[https://github.io/leopardpan/](https://github.com/leopardpan/)
+感谢本框架的提供者:leopardpan,他的github地址为[潘柏信](https://github.com/leopardpan/)
