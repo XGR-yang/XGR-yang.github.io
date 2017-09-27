@@ -1228,13 +1228,19 @@ body {
 
 /*tested*/
 .ih-item.circle.effect.fade .img{
-    opacity:1.0;
-    filter:alpha(opacity=100);
+    -webkit-transform-origin: opacity:1.0;filter:alpha(opacity=100);
+    -moz-transform-origin: opacity:1.0;filter:alpha(opacity=100);
+    -ms-transform-origin: opacity:1.0;filter:alpha(opacity=100);
+    -o-transform-origin: opacity:1.0;filter:alpha(opacity=100);
+    transform-origin: opacity:1.0;filter:alpha(opacity=100);
 }
 
-.ih-item.circle.effect.fade:hover .img{
-    opacity:0;
-    filter:alpha(opacity=0);
+.ih-item.circle.effect.fade a:hover .img{
+    -webkit-transform: opacity:0;filter:alpha(opacity=0);
+    -moz-transform: opacity:0;filter:alpha(opacity=0);
+    -ms-transform: opacity:0;filter:alpha(opacity=0);
+    -o-transform: opacity:0;filter:alpha(opacity=0);
+    transform: 
 }
 /*succeed!*/
 
