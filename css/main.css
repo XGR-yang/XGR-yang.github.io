@@ -1235,7 +1235,7 @@ body {
     transform-origin: opacity:1.0;filter:alpha(opacity=100);
 }
 
-.ih-item.circle.effect.fade a:hover .img{
+.ih-item.circle.effect.fade:hover .img{
     -webkit-transform: opacity:0;filter:alpha(opacity=0);
     -moz-transform: opacity:0;filter:alpha(opacity=0);
     -ms-transform: opacity:0;filter:alpha(opacity=0);
