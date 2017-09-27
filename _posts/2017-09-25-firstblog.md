@@ -7,13 +7,13 @@ tag: 测试
 
 ### 搭建
 
-申请github账号，创建repository,repository的名字必须是"全小写账号名.github.io",然后上[jekylltheme](https://jekyllthemes.org)找一个心仪的静态博客页,上传到repository中就可以了
+申请github账号，创建repository，repository的名字必须是"全小写账号名.github.io"，然后上[jekylltheme](https://jekyllthemes.org)找一个心仪的静态博客页，上传到repository中就可以了。
 
 ### 编写
 
-博客以**Markdown**格式编写,Markdown支持插入HTML代码
+博客以**Markdown**格式编写，Markdown支持插入HTML代码；
 
-博客的文件类型为.md文件,命名规则为"YEAR-MONTH-DAY-title.MARKUP"
+博客的文件类型为.md文件，文件命名规则为"YEAR-MONTH-DAY-title.MARKUP"；
 
 博客格式大致为:
 >	---
@@ -24,13 +24,12 @@ tag: 测试
 	---
 	正文
 
-需要注意的是:**所有的标点符号必须为英文标点符号，否则无法正确解析**
-此外,正文标题格式推荐使用三个#，其他的标题格式都不好看
+**正文标题格式推荐使用三个#，其他的标题格式都不好看。**
 
 ### 展望与鸣谢
 
-目前只是把博客框架做了一个小的调整,以后会逐步完善,把它变成自己的东西
+目前只是把博客框架做了一个小的调整，以后会逐步完善，把它变成自己的东西。
 
-个人并不打算实现高级功能，
+暂时并不打算实现如评论等的高级功能，
 
-感谢本框架的提供者:leopardpan,他的github地址为[潘柏信](https://github.com/leopardpan/)
+感谢本框架的提供者:leopardpan,他的github地址为[潘柏信](https://github.com/leopardpan/)。
