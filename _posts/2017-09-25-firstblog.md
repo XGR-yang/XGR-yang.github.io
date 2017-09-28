@@ -11,9 +11,9 @@ tag: 测试
 
 ### 编写
 
-博客以**Markdown**格式编写，Markdown支持插入HTML代码；
+博客以**Markdown**格式编写，Markdown支持插入HTML代码。
 
-博客的文件类型为.md文件，文件命名规则为"YEAR-MONTH-DAY-title.MARKUP"；
+博客的文件类型为.md文件，文件命名规则为"YEAR-MONTH-DAY-title.MARKUP"。
 
 博客格式大致为:
 >	---
@@ -29,7 +29,5 @@ tag: 测试
 ### 展望与鸣谢
 
 目前只是把博客框架做了一个小的调整，以后会逐步完善，把它变成自己的东西。
-
-暂时并不打算实现如评论等的高级功能，
 
 感谢本框架的提供者:leopardpan,他的github地址为[潘柏信](https://github.com/leopardpan/)。
