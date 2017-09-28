@@ -5,11 +5,14 @@ description: 用于测试的博客
 tag: 测试
 ---
 
-### 搭建
+# 搭建
 
-申请github账号，创建repository，repository的名字必须是"全小写账号名.github.io"，然后上[jekylltheme](https://jekyllthemes.org)找一个心仪的静态博客页，上传到repository中就可以了。
+1、申请github账号，
+2、在github中创建repository，repository的名字必须是"全小写账号名.github.io"，
+3、上[jekylltheme](https://jekyllthemes.org)找一个心仪的静态博客页，上传到repository中，
+4、调整静态博客页中的代码。
 
-### 编写
+# 编写
 
 博客以**Markdown**格式编写，Markdown支持插入HTML代码。
 
@@ -24,9 +27,9 @@ tag: 测试
 	---
 	正文
 
-**正文标题格式推荐使用三个#，其他的标题格式都不好看。**
+**本博客中正文中小标题格式推荐使用“# 标题”的格式或h1标签。**
 
-### 展望与鸣谢
+# 展望与鸣谢
 
 目前只是把博客框架做了一个小的调整，以后会逐步完善，把它变成自己的东西。
 
