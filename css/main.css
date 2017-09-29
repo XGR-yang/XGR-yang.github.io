@@ -464,11 +464,11 @@ img::-moz-selection {
     transition: all 0.5s ease-in-out }
 
   .panel-cover.animation {
-   width: 1%; } 
-
-   .panel-cover.animation:hover {
    width: 22%;
    max-width: none; } 
+
+  .panel-cover.animation:hover {
+   width: 1%; } 
 
   .panel-cover--overlay {
     display: block;
