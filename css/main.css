@@ -1127,7 +1127,7 @@ body {
     font-size: 10px;
 }
 
-.ih-item.circle.effect.fade .img{
+.ih-item.circle.effect.fade .img {
     /*-webkit-transform-origin: opacity:1;
     -moz-transform-origin: opacity:1;
     -ms-transform-origin: opacity:1;
@@ -1135,7 +1135,7 @@ body {
     transform-origin: */opacity:1;
 }
 
-.ih-item.circle.effect.fade:hover .img{
+.ih-item.circle.effect.fade:hover .img {
     /*-webkit-transform: opacity:0;
     -moz-transform: opacity:0;
     -ms-transform: opacity:0;

@@ -8,8 +8,11 @@ tag: 测试
 # 搭建
 
 1、申请github账号，
+
 2、在github中创建repository，repository的名字必须是"全小写账号名.github.io"，
+
 3、上[jekylltheme](https://jekyllthemes.org)找一个心仪的静态博客页，上传到repository中，
+
 4、调整静态博客页中的代码。
 
 # 编写
