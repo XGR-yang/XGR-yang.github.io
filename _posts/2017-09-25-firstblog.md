@@ -37,3 +37,6 @@ tag: 测试
 目前只是把博客框架做了一个小的调整，以后会逐步完善，把它变成自己的东西。
 
 感谢本框架的提供者:leopardpan,他的github地址为[潘柏信](https://github.com/leopardpan/)。
+
+
+插一个云音乐试试<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=489970551&auto=1&height=66"></iframe>
