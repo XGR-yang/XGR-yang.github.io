@@ -457,10 +457,20 @@ img::-moz-selection {
     display: block;
     position: relative;/*fixed*/
     z-index: 900;
+    width: 1%;/*100%*/
+    max-width: none;
+    height: auto;/*100%*/
+    background: #222222;
+    background-size: cover; }
+
+    .panel-cover:hover {
+    display: block;
+    position: relative;/*fixed*/
+    z-index: 900;
     width: 22%;/*100%*/
     max-width: 320px;/*none*/
     height: auto;/*100%*/
-    background: #222222 top left no-repeat;
+    background: #222222;
     background-size: cover; }
 
   .panel-cover--overlay {
