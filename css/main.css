@@ -457,15 +457,11 @@ img::-moz-selection {
     display: block;
     position: fixed;
     z-index: 900;
-    width: 100%;
-    max-width: none;
+    width: 22%;/*100%*/
+    max-width: 320px;/*none*/
     height: 100%;
     background: #222222 top left no-repeat;
     background-size: cover; }
-
-  .panel-cover.collapsed {
-    width: 22%;
-    max-width: 320px; }
 
   .panel-cover--overlay {
     display: block;
