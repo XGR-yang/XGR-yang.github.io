@@ -455,11 +455,11 @@ img::-moz-selection {
 
   .panel-cover {
     display: block;
-    position: relative;
+    position: relative;/*fixed*/
     z-index: 900;
     width: 22%;/*100%*/
     max-width: 320px;/*none*/
-    height: 100%;
+    height: auto;/*100%*/
     background: #222222 top left no-repeat;
     background-size: cover; }
 
