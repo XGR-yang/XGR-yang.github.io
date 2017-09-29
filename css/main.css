@@ -455,20 +455,16 @@ img::-moz-selection {
 
   .panel-cover {
     display: block;
-    position: relative;/*fixed*/
+    position: fixed;
     z-index: 900;
-    /*width: 22%;100%*/    
-    height: auto;/*100%*/
-    background: #222222;
-    background-position: center center; 
-    transition: all 0.5s ease-in-out }
+    width: 100%;
+    max-width: none;
+    height: 100%;
+    background-size: cover; }
 
-  .panel-cover.animation {
-   width: 22%;
-   max-width: none; } 
-
-  .panel-cover.animation:hover {
-   width: 1%; } 
+  .panel-cover--collapsed {
+    width: 22%;
+    max-width: 320px; }
 
   .panel-cover--overlay {
     display: block;
