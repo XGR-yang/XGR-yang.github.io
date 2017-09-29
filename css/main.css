@@ -457,21 +457,18 @@ img::-moz-selection {
     display: block;
     position: relative;/*fixed*/
     z-index: 900;
-    width: 1%;/*100%*/
-    max-width: none;
+    /*width: 22%;100%*/    
     height: auto;/*100%*/
     background: #222222;
-    background-size: cover; }
+    background-position: center center; 
+    transition: all 0.5s ease-in-out }
 
-    .panel-cover:hover {
-    display: block;
-    position: relative;/*fixed*/
-    z-index: 900;
-    width: 22%;/*100%*/
-    max-width: 320px;/*none*/
-    height: auto;/*100%*/
-    background: #222222;
-    background-size: cover; }
+  .panel-cover.animation {
+   width: 1%; } 
+
+   .panel-cover.animation:hover {
+   width: 22%;
+   max-width: none; } 
 
   .panel-cover--overlay {
     display: block;
