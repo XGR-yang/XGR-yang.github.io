@@ -460,6 +460,7 @@ img::-moz-selection {
     width: 100%;
     max-width: none;
     height: 100%;
+    background: top left no-repeat;
     background-size: cover; }
 
   .panel-cover--collapsed {
