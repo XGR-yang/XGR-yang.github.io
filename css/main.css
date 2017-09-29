@@ -455,7 +455,7 @@ img::-moz-selection {
 
   .panel-cover {
     display: block;
-    position: fixed;
+    position: relative;
     z-index: 900;
     width: 22%;/*100%*/
     max-width: 320px;/*none*/
