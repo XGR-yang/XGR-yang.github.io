@@ -463,7 +463,7 @@ img::-moz-selection {
     background: #222222 top left no-repeat;
     background-size: cover; }
 
-  .panel-cover--collapsed {
+  .panel-cover.collapsed {
     width: 22%;
     max-width: 320px; }
 
