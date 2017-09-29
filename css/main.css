@@ -460,11 +460,8 @@ img::-moz-selection {
     width: 100%;
     max-width: none;
     height: 100%;
-<<<<<<< HEAD
     background: top left no-repeat;
-=======
-    background: url(/images/background-cover.jpg) top left no-repeat #666666;
->>>>>>> parent of 711d3ab... test
+    background: #222222 top left no-repeat #666666;
     background-size: cover; }
 
   .panel-cover--collapsed {
