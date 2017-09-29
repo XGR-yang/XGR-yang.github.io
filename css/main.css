@@ -460,7 +460,6 @@ img::-moz-selection {
     width: 100%;
     max-width: none;
     height: 100%;
-    background: top left no-repeat;
     background: #222222 top left no-repeat #666666;
     background-size: cover; }
 
