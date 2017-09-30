@@ -1,32 +1,27 @@
-﻿# Basic
-title: 亻山高人
-subtitle: 记事本
-# 头像里面的标题
-avatarTitle: 杨锐博
-# 头像里面的描述
-avatarDesc: C++/Python
-url: "https://xgr-yang.github.io/"
+# Profile information
+name: 亻山高人
+title: 记事本
+permalink: ':title/'
+url: "xgr-yang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-permalink: /:year/:month/:title/
-# Format
-highlighter: rouge
+# Social
+facebook: #Add your Facebook
+twitter: #Add your Twitter
+google-plus: #Add your Google+
+github: #Add your Github
 
-textColor: #FF0000
+# Contact form
+email: #your-email@domain.com
 
-# The blog button should not be removed.
-blog_button:
-    title: 博客主页
+# Paginate
+paginate: 3
+paginate_path: /page:num/
 
-# Navigation buttons in the front page.s
-nav:
-    - {title: 所有文章, description: archive, url: '/archive'}
-    - {title: 标签, description: tags, url: '/tags'}
-
-# Pagination
-gems: [jekyll-paginate,jekyll-sitemap]
-paginate: 20
-paginate_path: "page/:num/"
-
-
-# 框架提供者：潘柏信（leopardpan）
-# Github：github.io/leopardpan
+# Build settings
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+exclude:
+  - Gemfile
+  - Gemfile.lock
+include: [_pages]
