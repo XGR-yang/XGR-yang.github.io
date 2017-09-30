@@ -1,26 +1,8 @@
-Fresh is a free blog template for Jekyll
-=============================
-
-![](assets/img/fresh.jpg)
-
-# Demo
-
-![GIF](assets/img/fresh.gif)
-
-View this jekyll theme in action [here](http://artemsheludko.pw/fresh/)
-
-Integrations
-  - [Google Fonts](https://fonts.google.com/)
-  - [Disqus](https://disqus.com/)
-  - [Font Awesome](http://fontawesome.io/)
-  - Social media links
-
-# How to Use
-
-  For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
-  or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
-  and [creating pages](https://jekyllrb.com/docs/pages/).
-
-## License
-
-GNU General Public License v3.0
+# XGR-yang.github.io
+感谢博客模板提供者：leopardpan，他的github为github.io/leopardpan  
+  
+2017/09/23 尝试用github page搭建一个网页  
+<hr/>  
+2017/09/27 简化UI，sidepanel常驻为侧边栏形式，头像动画换为fade形式，简化了一些不用的代码  
+<hr/>  
+2017/09/28 加入来必力评论系统  
