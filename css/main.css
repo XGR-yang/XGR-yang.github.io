@@ -362,7 +362,8 @@ img::-moz-selection {
     margin: 0 auto; }
 
   .content-wrapper {
-    z-index: 800; }
+    z-index: 800; 
+    margin-left: 10%; }
 
   .content-wrapper__inner {
     /*margin: 0 10%;*/
