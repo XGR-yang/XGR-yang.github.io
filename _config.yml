@@ -1,10 +1,5 @@
 ﻿# Basic
-title: 亻山高人
-subtitle: 记事本
-# 头像里面的标题
-avatarTitle: 杨锐博
-# 头像里面的描述
-avatarDesc: C++/Python
+title: 亻山高人的记事本
 url: "https://xgr-yang.github.io/"
 
 permalink: /:year/:month/:title/
@@ -19,7 +14,6 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 所有文章, description: archive, url: '/archive'}
     - {title: 标签, description: tags, url: '/tags'}
 
 # Pagination
