@@ -344,10 +344,7 @@ color: #666666; }
 
 .content-wrapper {
   z-index: 800; 
-  margin-left: 15%;
-  margin-right: 15%;
-  padding-top: 50px;
-  padding-bottom: 50px; }
+  margin: 15%;}
 
 .footer {
   display: block;
