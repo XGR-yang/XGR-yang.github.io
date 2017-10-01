@@ -5,48 +5,6 @@
 
   <body>
 
-    <span class="mobile btn-mobile-menu">
-
-      <div class="ih-item circle effect fade">            
-          <a href="/#blog" title="前往 {{ site.title }} 的主页" class="blog-button">
-            <div class="img"><img src="/images/avatar.jpg" alt="img"></div>
-            <div class="info">
-              <div class="info-back">
-                <h2> 
-                  {% if site.avatarTitle %}
-                    {{site.avatarTitle}}
-                  {% endif %}
-                </h2>
-                <p>
-                  {% if site.avatarDesc %}
-                    {{site.avatarDesc}}
-                  {% endif %}
-                </p>
-              </div>
-            </div>
-          </a>
-        </div>
-                
-      <div class="nav_container">
-        <nav class="nav-menu-item" style = "float:right">
-          <i class="nav-menu-item">
-            <a title="{{site.blog_button.description}}" class="blog-button">  
-              {{site.blog_button.title}}
-            </a>
-          </i>
-          {% for item in site.nav %}
-            <i class="nav-menu-item">
-              <a href="{{item.url}}" title="{{item.description}}" class="btn-mobile-menu__icon">
-                {{item.title}}
-              </a>
-            </i>
-          {% endfor %}
-        </nav>
-      </div>
-    </span>
-    
-    <!--{% include side-panel.html %}-->
-
     <div class="content-wrapper">
       <div class="content-wrapper__inner">
         {{ content }}
