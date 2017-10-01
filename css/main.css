@@ -362,17 +362,14 @@ img::-moz-selection {
     margin: 0 auto; }
 
   .content-wrapper {
-    z-index: 800;
-    width: 70%;
-    margin-left: 30%; }
+    z-index: 800; }
 
   .content-wrapper__inner {
     /*margin: 0 10%;*/
     margin-right: 60px;
     padding: 50px 0; 
     /*margin: 0 auto; */
-    /*width: 700px;*/
-  }
+    /*width: 700px;*/ }
 
   .footer {
     display: block;
