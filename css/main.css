@@ -55,8 +55,8 @@ html, body {
 html {
   height: 100%;
   max-height: 100%;
-  border-left: 10px solid #222222;
-  border-right: 10px solid #222222; }
+  border-left: 10px solid #444444;
+  border-right: 10px solid #444444; }
 
 body {
   font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
