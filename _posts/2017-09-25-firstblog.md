@@ -22,14 +22,23 @@ tag: 测试
 博客的文件类型为.md文件，文件命名规则为"YEAR-MONTH-DAY-title.MARKUP"。
 
 博客格式大致为:
->	---
+
+	---
 	layout:自己的layout
 	title:自己的title
 	description:自己的description
 	tag:自己的tag
 	---
+
 	### 正文标题
-	正文内容
+	
+	正文一行
+	
+	正文二行
+	
+		代码块
+	
+	[链接名](url)
 
 ### 展望与鸣谢
 
