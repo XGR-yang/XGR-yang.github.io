@@ -110,10 +110,11 @@ p {
   margin-bottom: 10px;
   margin-top: 5px;
   line-height: 1.7em; 
-  padding-left: 20px; }
+  padding-left: 0.5em; }
 
 strong {
-  font-weight: bold; }
+  font-weight: bold;
+  color: #bf1827; }
 
 em {
   font-style: italic; }
