@@ -101,7 +101,7 @@ h3 {
   text-indent: 4px; 
   border-radius: 4px; 
   padding: 6px 5px;
-  margin-top: 20px;
+  margin-top: 0.6em;
   background:#458b74;
   border-left: 6px solid #476544; 
   position:relative; }
@@ -370,7 +370,7 @@ color: #666666; }
   padding: 1px 0; }
 
 .post-meta {
-  margin: 0;
+  margin-top: 0.6em;
   color: #c7c7c7; }
 
 .post-meta__date span {
