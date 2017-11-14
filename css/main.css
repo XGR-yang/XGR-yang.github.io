@@ -232,7 +232,7 @@ td:last-child {
 
 .pager li>a>span{
   padding-right: 10px;
-  color:gray;
+  color:#1d4034;
   padding: 10px 10px; }
 
 .pager li>span {
@@ -246,7 +246,7 @@ td:last-child {
   border-radius:0; }
 
 .pager li>a {
-  color:#404040 }
+  color:#1d4034 }
 
 .pager li>a:hover,
 .pager li>a:focus { 
@@ -356,7 +356,7 @@ color: #666666; }
 
 .footer {
   display: block;
-  padding: 2em 0 0 0;
+  padding: 5em 0 0 0;
   border-top: 1px solid #000000;
   font-size: .7em;
   color: #b3b3b3;
