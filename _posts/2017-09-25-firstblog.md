@@ -24,10 +24,10 @@ tag: 测试
 博客格式大致为:
 
 	---
-	layout:自己的layout
-	title:自己的title
-	description:自己的description
-	tag:自己的tag
+	layout: 自己的layout
+	title: 自己的title
+	description: 自己的description
+	tag: 自己的tag
 	---
 
 	### 正文标题
