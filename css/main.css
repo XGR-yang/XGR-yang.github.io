@@ -107,6 +107,7 @@ h3 {
   position:relative; }
 
 p {
+  text-indent: 2em;/*段首缩进*/
   margin-bottom: 10px;
   margin-top: 5px;
   line-height: 1.7em; 
@@ -541,7 +542,6 @@ color: #666666; }
   color: #4F4F4F; }
 
 .post-list__divider {
-  width: 30%;
   margin: 0 0 2em 0;
   border-top: 1px solid #000000;
   }
