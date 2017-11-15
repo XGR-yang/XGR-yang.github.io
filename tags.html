@@ -4,9 +4,24 @@ title: 标签
 header: 根据快速导航到相应的文章
 group: navigation
 ---
+{% assign BASE_PATH = nil %}
+{% assign HOME_PATH = "/" %}
+{% capture ASSET_PATH %}{{ BASE_PATH }}/assets/themes/{{ layout.theme.name }}{% endcapture %}
+{% endcapture %}{% assign jbcache = nil %}
 
 <ul class="tag_box inline">
-  {% assign tags_list = site.tags %}  
+  {% assign tags_list = site.tags %}
+  
+  {% if tags_list.first[0] == null %}
+    {% for tag in tags_list %} 
+      <li><a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}-ref">{{ tag }} <span>{{ site.tags[tag].size }}</span></a></li>
+    {% endfor %}
+  {% else %}
+    {% for tag in tags_list %} 
+    	<li><a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref">{{ tag[0] }} <span>{{ tag[1].size }}</span></a></li>
+    {% endfor %}
+  {% endif %}
+  {% assign tags_list = nil %}
 </ul>
 
 <div class = "card">
@@ -15,6 +30,20 @@ group: navigation
   <h3 id="{{ tag[0] }}-ref">{{ tag[0] }}</h3>
   <ul>
     {% assign pages_list = tag[1] %}  
+    
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if group == null or group == node.group %}
+          {% if page.url == node.url %}
+    	      <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
+          {% else %}
+    	      <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% assign pages_list = nil %}
+    {% assign group = nil %}
   </ul>
 
 
