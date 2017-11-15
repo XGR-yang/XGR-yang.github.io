@@ -398,7 +398,7 @@ color: #666666; }
 
 .pagination {
   display: block;
-  margin: 0 0 2em 0;
+  margin-bottom: 1em;
   }
 
 .pagination__page-number {
@@ -539,8 +539,7 @@ color: #666666; }
   color: #4F4F4F; }
 
 .post-list__divider {
-  width: 15%;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   border-top: 0.1em solid #000000;
   }
 
