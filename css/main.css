@@ -134,11 +134,10 @@ blockquote p:last-child {
   margin-bottom: 0; }
 
 ol, ul {
-  margin: 0 0 1.3em 2.5em; }
+  margin-left: 1.7em; }
 
 ol li, ul li {
-  margin: 0 0 2em 0;
-  line-height: 1.6em;
+  line-height: 2em;
   }
 
 ol ol, ol ul, ul ol, ul ul {
