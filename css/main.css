@@ -302,8 +302,8 @@ color: #666666; }
 .excerpt {
   margin-left: 1em;
   margin-right: 1em;
-  border-left: 0.6em solid #00688b;
-  border-right: 0.6em solid #00688b;
+  /*border-left: 0.6em solid #00688b;
+  border-right: 0.6em solid #00688b;*/
   font-size: .9em;
   background-color: #eeeeee;
   text-indent: 10px;
@@ -438,18 +438,18 @@ color: #666666; }
 
 .post-list li:hover {
   /*transform:scale(1.01,1.01); */
-  -moz-box-shadow:4px 4px 4px #4169e1, 
-  -4px -4px 4px #4169e1, 
-  4px -4px 4px #4169e1, 
-  -4px 4px 4px #4169e1; 
-  -webkit-box-shadow:4px 4px 4px #4169e1, 
-  -4px -4px 4px #4169e1, 
-  4px -4px 4px #4169e1, 
-  -4px 4px 4px #4169e1; 
-  box-shadow:4px 4px 4px #4169e1, 
-  -4px -4px 4px #4169e1, 
-  4px -4px 4px #4169e1, 
-  -4px 4px 4px #4169e1;
+  -moz-box-shadow:4px 4px 4px #00688f, 
+  -4px -4px 4px #00688f, 
+  4px -4px 4px #00688f, 
+  -4px 4px 4px #00688f; 
+  -webkit-box-shadow:4px 4px 4px #00688f, 
+  -4px -4px 4px #00688f, 
+  4px -4px 4px #00688f, 
+  -4px 4px 4px #00688f; 
+  box-shadow:4px 4px 4px #00688f, 
+  -4px -4px 4px #00688f, 
+  4px -4px 4px #00688f, 
+  -4px 4px 4px #00688f;
   -o-transition: .5s;
   -ms-transition: .5s;
   -moz-transition: .5s;
