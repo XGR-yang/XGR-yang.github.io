@@ -438,18 +438,18 @@ color: #666666; }
 
 .post-list li:hover {
   /*transform:scale(1.01,1.01); */
-  -moz-box-shadow:4px 4px 4px #476544, 
-  -4px -4px 4px #476544, 
-  4px -4px 4px #476544, 
-  -4px 4px 4px #476544; 
-  -webkit-box-shadow:4px 4px 4px #476544, 
-  -4px -4px 4px #476544, 
-  4px -4px 4px #476544, 
-  -4px 4px 4px #476544; 
-  box-shadow:4px 4px 4px #476544, 
-  -4px -4px 4px #476544, 
-  4px -4px 4px #476544, 
-  -4px 4px 4px #476544;
+  -moz-box-shadow:4px 4px 4px #4169e1, 
+  -4px -4px 4px #4169e1, 
+  4px -4px 4px #4169e1, 
+  -4px 4px 4px #4169e1; 
+  -webkit-box-shadow:4px 4px 4px #4169e1, 
+  -4px -4px 4px #4169e1, 
+  4px -4px 4px #4169e1, 
+  -4px 4px 4px #4169e1; 
+  box-shadow:4px 4px 4px #4169e1, 
+  -4px -4px 4px #4169e1, 
+  4px -4px 4px #4169e1, 
+  -4px 4px 4px #4169e1;
   -o-transition: .5s;
   -ms-transition: .5s;
   -moz-transition: .5s;
